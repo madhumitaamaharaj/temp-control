@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  padding: 40px;
+  transition: background-color 0.3s ease;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
